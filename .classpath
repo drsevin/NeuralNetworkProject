@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/android-1.5_r4.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/neuroph-core-2.98.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/neuroph-2/Framework/libs/visrec-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sevinsenadere/Desktop/jFuzzyLogic.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
